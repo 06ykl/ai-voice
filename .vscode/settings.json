@@ -1,0 +1,24 @@
+{
+    "files.autoSave": "afterDelay",
+    "files.autoSaveDelay": 1000,
+    "files.insertFinalNewline": false,
+    "files.trimFinalNewlines": true,
+	"files.exclude": {
+		"**/.git": false
+	},
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.formatOnPaste": true,
+    "editor.tabSize": 4,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "javascript.format.enable": true,
+    "javascript.format.semicolons": "insert",
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "javascript.preferences.quoteStyle": "double",
+    "typescript.format.enable": true,
+    "typescript.format.semicolons": "insert",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "typescript.preferences.quoteStyle": "double",
+}
