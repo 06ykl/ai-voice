@@ -11,7 +11,7 @@
     "editor.formatOnPaste": true,
     "editor.tabSize": 4,
     "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
+        "source.fixAll.eslint": "explicit"
     },
     "javascript.format.enable": true,
     "javascript.format.semicolons": "insert",
